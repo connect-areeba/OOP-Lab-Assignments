@@ -26,3 +26,11 @@ The purpose of these assignments is to understand and practice core OOP concepts
 ---
 
 ## 📂 Repository Structure
+
+Each lab folder contains the source code related to that specific lab task.
+
+---
+
+## ▶️ How to Run
+1. Clone the repository  
+
