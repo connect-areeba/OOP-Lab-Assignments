@@ -1,4 +1,4 @@
-# OOP Lab Assignment – C++
+# OOP Lab Assignment C++
 
 ## 📌 Overview
 This repository contains my **Object-Oriented Programming (OOP) Lab assignments** implemented in **C++**.  
